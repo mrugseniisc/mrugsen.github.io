@@ -1,3 +1,3 @@
-# kushagragpt99.github.io
-Personal website of Kushagra Gupta.  
+# mrugsen.github.io
+Personal website of Mrugsen.  
 Cloned from [apreshill](https://github.com/rbind/apreshill/)
